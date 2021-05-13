@@ -7,4 +7,4 @@ Step 3: Analyze performance
 
 Step 4: Write technical documentation
 
-Link to Documentation https://github.com/sundaynwoye/todo-list/wiki
+**Link to Documentation https://github.com/sundaynwoye/todo-list/wiki**
